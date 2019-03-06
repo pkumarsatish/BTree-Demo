@@ -9,3 +9,5 @@ Implementation of B-Tree and Experiment for performance at different order of B-
 > <p><strong>Input.txt, SearchInput.txt</strong>: Input files </p>
 
 Input.txt is ~140MB, Download from here: https://drive.google.com/file/d/1ie6f4RQ14jk0FR--6gQ2dWXgW-iOSA_Z/view?usp=sharing
+
+> <p><Makefile</strong>: Please insure to pass m, Input.txt and SearchInput.txt </p>
